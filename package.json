@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/komali2/carTools/issues"
   },
-  "homepage": "https://github.com/komali2/carTools#readme"
+  "homepage": "https://github.com/komali2/carTools#readme",
+  "dependencies": {
+    "eslint": "^3.5.0"
+  }
 }
