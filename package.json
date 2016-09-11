@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/komali2/carTools#readme",
   "dependencies": {
+  },
+  "devDependencies": {
     "eslint": "^3.5.0"
+
   }
 }
